@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^5.3.0",
+    "node": "^26.11.1"
+  },
+  "name": "abrigodepetsnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuizBottoli/abrigoDePets.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuizBottoli/abrigoDePets/issues"
+  },
+  "homepage": "https://github.com/LuizBottoli/abrigoDePets#readme",
+  "devDependencies": {},
+  "description": ""
+}
